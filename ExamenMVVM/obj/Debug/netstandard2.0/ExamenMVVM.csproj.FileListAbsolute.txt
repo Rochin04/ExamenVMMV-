@@ -1,0 +1,15 @@
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.csproj.AssemblyReference.cache
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\View\CalculaView.xaml.g.cs
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.AssemblyInfoInputs.cache
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.AssemblyInfo.cs
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.csproj.CoreCompileInputs.cache
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\bin\Debug\netstandard2.0\ExamenMVVM.deps.json
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\bin\Debug\netstandard2.0\ExamenMVVM.dll
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\bin\Debug\netstandard2.0\ref\ExamenMVVM.dll
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\bin\Debug\netstandard2.0\ExamenMVVM.pdb
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.dll
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\refint\ExamenMVVM.dll
+C:\Users\emiro\source\repos\ExamenMVVM\ExamenMVVM\obj\Debug\netstandard2.0\ExamenMVVM.pdb
